@@ -1,2 +1,2 @@
-# myadsman
-MyAdsMAN mobile app for users who want to make money by patronising ads.
+# traveler-san
+A simple flutter app to learn flutter...i guess?
